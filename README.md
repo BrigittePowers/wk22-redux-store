@@ -1,1 +1,3 @@
-# wk22-redux-store
+# Redux Store
+
+WIP
